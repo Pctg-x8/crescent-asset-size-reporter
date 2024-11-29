@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "target": "esnext",
+        "types": ["./.wrangler/types/runtime.d.ts"]
+    }
+}

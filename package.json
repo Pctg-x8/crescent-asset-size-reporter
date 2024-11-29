@@ -1,0 +1,12 @@
+{
+    "name": "crescent-asset-size-reporter",
+    "private": true,
+    "license": "MIT",
+    "scripts": {
+        "gen-types": "wrangler types --experimental-include-runtime"
+    },
+    "dependencies": {
+        "typescript": "^5.7.2",
+        "wrangler": "^3.91.0"
+    }
+}
